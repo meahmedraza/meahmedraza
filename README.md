@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza</h1>
-<h3 align="center">🚀 A Data Science & AI Enthusiast | Flutter Developer | Lifelong Learner from Pakistan</h3>
+<h3 align="center">🚀 Aspiring AI/ML Engineer | Generative AI & Agentic AI Enthusiast | Data Analyst from Pakistan</h3>
 
 🌱 **About Me**
 - 🎓 BS in Computer Science @ PAF-IAST (Pak Austria Fachhochschule Institute of Applied Sciences and Technology)  
-- 🤖 Passionate about **Data Science, Machine Learning, and Neurotechnology**  
-- 📱 Building modern mobile apps with **Flutter (MVVMN architecture, SOLID principles)**  
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**  
+- 🧠 Exploring **Generative AI, Agentic AI, and Large Language Models (LLMs)**  
 - 📊 Skilled in **Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch)**  
-- 📈 Exploring growth, decay, and modeling of **disease & technology spread**  
+- 📈 Experienced in **Data Analysis, RAG systems, and building AI-powered applications**  
+- 📱 Also building mobile apps with **Flutter (MVVMN architecture, SOLID principles)**  
 - 📫 Reach me at: **ahmedraza8616@gmail.com**  
 
 ---
