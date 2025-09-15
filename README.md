@@ -41,56 +41,8 @@ I'm a passionate Computer Science graduate with expertise in Artificial Intellig
 
 ## 🔥 My Tech Stack
 
-### 🧠 AI/ML & Data Science
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  </a>
-</p>
-
-### 📱 Mobile Development
-<p align="left">
-  <a href="https://flutter.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  </a>
-  <a href="https://dart.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  </a>
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
-</p>
-
-### 🛠️ Other Tools
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,flutter,dart,mysql,mongodb,git,linux&perline=6" />
 </p>
 
 ---
@@ -109,6 +61,12 @@ I'm a passionate Computer Science graduate with expertise in Artificial Intellig
 
 ---
 
+## 📈 Contribution Graph
+
+![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meahmedraza&theme=tokyo-night)
+
+---
+
 ## 🏆 Featured Projects
 
 ### 🤖 FBR Insight Chatbot (LLM + RAG)
@@ -120,7 +78,11 @@ Fine-tuned LLaMA-based chatbot with RAG pipeline for FBR dataset queries.
   <img src="https://raw.githubusercontent.com/meahmedraza/FBR-Insights-Chatbot/main/fbrinsight/Images/output%20test.png" alt="FBR Chatbot Demo" width="600"/>
 </p>
 
+---
+
 ### 📱 Hotel Reservation System (Flutter, MVVMN)
+[![Hotel System](https://github-readme-stats.vercel.app/api/pin/?username=meahmedraza&repo=Hotel-Reservation-System&theme=radical)](https://github.com/meahmedraza/Hotel-Reservation-System)
+
 Feature-rich mobile app with clean architecture, SOLID principles, and Provider state management.
 
 ---
@@ -158,3 +120,9 @@ Feature-rich mobile app with clean architecture, SOLID principles, and Provider 
   [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=meahmedraza&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
+
+---
+
+## 💡 Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
