@@ -1,81 +1,163 @@
-<!-- Header with Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Ahmed+Raza;Aspiring+AI/ML+Engineer;Generative+AI+%7C+Agentic+AI+Enthusiast;Data+Analyst+%7C+Flutter+Developer;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ahmed+Raza;AI%2FML+Engineer;Generative+AI+Enthusiast;Data+Analyst;Flutter+Developer" alt="Typing SVG" />
+  </a>
 </h1>
+
+<h3 align="center">🚀 Aspiring AI/ML Engineer | Generative AI & Agentic AI Enthusiast | Data Analyst from Pakistan</h3>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=meahmedraza&label=Profile%20Views&color=blueviolet&style=flat)
+  [![Top Committer Badge](https://user-badge.committers.top/pakistan/meahmedraza.svg)](https://user-badge.committers.top/pakistan/meahmedraza)
+  
+</div>
 
 ---
 
-<!-- Profile Views and Commit Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meahmedraza&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-  <a href="https://user-badge.committers.top/pakistan/meahmedraza">
-    <img src="https://user-badge.committers.top/pakistan/meahmedraza.svg" alt="Top Committer Badge" />
+<div align="center">
+  
+  ![Ahmed's GitHub Banner](https://github.com/meahmedraza/meahmedraza/blob/main/assets/github-header-image.png?raw=true)
+  
+</div>
+
+---
+
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+I'm a passionate Computer Science graduate with expertise in Artificial Intelligence, Machine Learning, and Data Science. I love building intelligent systems that can solve real-world problems.
+
+- 🎓 **BS in Computer Science** @ PAF-IAST  
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**  
+- 🧠 Exploring **Generative AI, Agentic AI, and Large Language Models (LLMs)**  
+- 📊 Skilled in **Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch)**  
+- 📈 Experienced in **Data Analysis, RAG systems, and AI-powered applications**  
+- 📱 Building mobile apps with **Flutter (MVVMN architecture, SOLID principles)**  
+- 📫 Reach me at: **ahmedraza8616@gmail.com**
+
+---
+
+## 🔥 My Tech Stack
+
+### 🧠 AI/ML & Data Science
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  </a>
+</p>
+
+### 📱 Mobile Development
+<p align="left">
+  <a href="https://flutter.dev" target="_blank"> 
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  </a>
+  <a href="https://dart.dev" target="_blank"> 
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  </a>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+</p>
+
+### 🛠️ Other Tools
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   </a>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## 📊 GitHub Analytics
 
-### 🌱 About Me
-- 🎓 **BS in Computer Science** @ PAF-IAST  
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**  
-- 🧠 Exploring **Generative AI, Agentic AI, and Large Language Models (LLMs)**  
-- 📊 Skilled in **Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch)**  
-- 📈 Experienced in **RAG systems, fine-tuning, and AI-powered applications**  
-- 📱 Building apps with **Flutter (MVVMN, SOLID principles)**  
-- 📫 Reach me at: **ahmedraza8616@gmail.com**
+<div align="center">
+  
+  ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=meahmedraza&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meahmedraza&theme=radical)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meahmedraza&layout=compact&theme=radical&langs_count=8)
+  
+</div>
 
 ---
 
-### 🌐 Connect with me
+## 🏆 Featured Projects
+
+### 🤖 FBR Insight Chatbot (LLM + RAG)
+[![FBR Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=meahmedraza&repo=FBR-Insights-Chatbot&theme=radical)](https://github.com/meahmedraza/FBR-Insights-Chatbot)
+
+Fine-tuned LLaMA-based chatbot with RAG pipeline for FBR dataset queries.
+
 <p align="center">
-<a href="https://twitter.com/me_ahmedraza" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-<a href="https://linkedin.com/in/meahmedraza" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://web.facebook.com/profile.php?id=100050948610246" target="blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
-<a href="https://instagram.com/me.ahmed_raza" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-<a href="https://medium.com/@ahmedraza8616" target="blank"><img src="https://skillicons.dev/icons?i=medium" height="40" /></a>
-<a href="https://leetcode.com/meahmedraza" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40" /></a>
+  <img src="https://raw.githubusercontent.com/meahmedraza/FBR-Insights-Chatbot/main/fbrinsight/Images/output%20test.png" alt="FBR Chatbot Demo" width="600"/>
+</p>
+
+### 📱 Hotel Reservation System (Flutter, MVVMN)
+Feature-rich mobile app with clean architecture, SOLID principles, and Provider state management.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/me_ahmedraza" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/meahmedraza" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100050948610246" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/me.ahmed_raza" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://medium.com/@ahmedraza8616" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.leetcode.com/meahmedraza" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
 
-### ⚒️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,flutter,dart,mysql,mongodb,git,linux" />
-</p>
+<div align="center">
+  
+  ![Snake animation](https://github.com/meahmedraza/meahmedraza/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meahmedraza&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meahmedraza&theme=tokyonight" alt="Ahmed's GitHub streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meahmedraza&show_icons=true&layout=compact&theme=tokyonight" alt="Ahmed's Top Languages" width="45%"/>
-</p>
-
----
-
-### 🚀 Highlight Projects
-
-- 🤖 [**FBR Insight Chatbot (LLM + RAG)**](https://github.com/meahmedraza/FBR-Insights-Chatbot)  
-  *Fine-tuned LLaMA-based chatbot with RAG pipeline for FBR dataset queries.*  
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/meahmedraza/FBR-Insights-Chatbot/main/fbrinsight/Images/output%20test.png" alt="FBR Chatbot Demo" width="600"/>
-  </p>
-
-- 📱 **Hotel Reservation System (Flutter, MVVMN)**  
-  *Feature-rich mobile app with clean architecture, SOLID principles, and Provider state management.*  
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/meahmedraza/Hotel-Reservation-System/main/demo.png" alt="Hotel Reservation System Demo" width="600"/>
-  </p>
-
----
-
-### 🎶 Fun Fact
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=3AF700&center=true&vCenter=true&width=500&lines=I+debug+more+than+I+sleep+😅;Coffee+%2B+Code+%3D+Perfect+Combo+☕💻;Always+excited+to+learn+new+things+🔥" alt="Fun Facts Typing Animation" />
-</p>
+<div align="center">
+  
+  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=meahmedraza&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
