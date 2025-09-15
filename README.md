@@ -85,7 +85,7 @@ I'm a passionate Computer Science graduate with expertise in Artificial Intellig
   <img src="https://streak-stats.demolab.com?user=meahmedraza&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meahmedraza&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meahmedraza&theme=radical" alt="Profile Details" height="48%" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meahmedraza&theme=radical" alt="Profile Details" height="60%" width="48%" />
   
 </div>
 
