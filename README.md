@@ -149,7 +149,7 @@ Feature-rich mobile app with clean architecture, SOLID principles, and Provider 
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/meahmedraza/meahmedraza/main/assets/snake-animation.svg)
+  ![Snake animation](https://github.com/meahmedraza/meahmedraza/blob/main/assets/github-user-contribution.svg)
   
 </div>
 
