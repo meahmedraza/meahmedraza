@@ -10,28 +10,21 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=meahmedraza&label=Profile%20Views&color=blueviolet&style=flat)
   [![Top Committer Badge](https://user-badge.committers.top/pakistan/meahmedraza.svg)](https://user-badge.committers.top/pakistan/meahmedraza)
+  ![GitHub Followers](https://img.shields.io/github/followers/meahmedraza?style=social)
   
 </div>
 
 ---
 
 <div align="center">
-  
-  ![Ahmed's GitHub Banner](https://raw.githubusercontent.com/meahmedraza/meahmedraza/main/assets/github-header-image.png)
-  
+  <img src="https://github.com/meahmedraza/meahmedraza/blob/main/assets/github-header-image.png" alt="Header" width="100%"/>
 </div>
 
 ---
 
 ## 🎯 About Me
 
-<div align="center">
-  
-  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  
-</div>
-
-<br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 I'm a passionate Computer Science graduate with expertise in Artificial Intelligence, Machine Learning, and Data Science. I love building intelligent systems that can solve real-world problems.
 
@@ -43,13 +36,44 @@ I'm a passionate Computer Science graduate with expertise in Artificial Intellig
 - 📱 Building mobile apps with **Flutter (MVVMN architecture, SOLID principles)**  
 - 📫 Reach me at: **ahmedraza8616@gmail.com**
 
+<div align="center">
+  
+  [![Download Resume](https://img.shields.io/badge/Download-Resume-22D3EE?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/meahmedraza/meahmedraza/raw/main/assets/Ahmed_Raza_Resume.pdf)
+  
+</div>
+
 ---
 
-## 🔥 My Tech Stack
+## 🔥 Tech Stack & Proficiency
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,flutter,dart,mysql,mongodb,git,linux&perline=6" />
-</p>
+### 🧠 AI/ML & Data Science
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?logo=pytorch&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?logo=pandas&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Advanced-F7931E?logo=scikit-learn&logoColor=white)
+  
+</div>
+
+### 📱 Mobile Development
+<div align="center">
+  
+  ![Flutter](https://img.shields.io/badge/Flutter-Advanced-02569B?logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-Intermediate-0175C2?logo=dart&logoColor=white)
+  
+</div>
+
+### 🗄️ Databases & Tools
+<div align="center">
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?logo=mongodb&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?logo=linux&logoColor=black)
+  
+</div>
 
 ---
 
@@ -57,15 +81,11 @@ I'm a passionate Computer Science graduate with expertise in Artificial Intellig
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=meahmedraza&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Ahmed's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meahmedraza&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meahmedraza&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meahmedraza&theme=radical" alt="Ahmed's GitHub streak" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meahmedraza&layout=compact&theme=radical&langs_count=8" alt="Ahmed's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meahmedraza&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meahmedraza&theme=radical" alt="Profile Details" width="48%" />
   
 </div>
 
@@ -73,43 +93,31 @@ I'm a passionate Computer Science graduate with expertise in Artificial Intellig
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meahmedraza&theme=tokyo-night" alt="Ahmed's GitHub Activity Graph" />
-  
-</div>
+![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meahmedraza&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
 ## 🏆 Featured Projects
 
 ### 🤖 FBR Insight Chatbot (LLM + RAG)
-
-<div align="center">
-  
-  [![FBR Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=meahmedraza&repo=FBR-Insights-Chatbot&theme=radical)](https://github.com/meahmedraza/FBR-Insights-Chatbot)
-  
-</div>
+[![FBR Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=meahmedraza&repo=FBR-Insights-Chatbot&theme=radical&show_owner=true)](https://github.com/meahmedraza/FBR-Insights-Chatbot)
 
 Fine-tuned LLaMA-based chatbot with RAG pipeline for FBR dataset queries.
 
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/meahmedraza/FBR-Insights-Chatbot/main/fbrinsight/Images/output%20test.png" alt="FBR Chatbot Demo" width="600"/>
-  
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meahmedraza/FBR-Insights-Chatbot/main/fbrinsight/Images/output%20test.png" alt="FBR Chatbot Demo" width="80%"/>
+</p>
 
 ---
 
 ### 📱 Hotel Reservation System (Flutter, MVVMN)
-
-<div align="center">
-  
-  [![Hotel System](https://github-readme-stats.vercel.app/api/pin/?username=meahmedraza&repo=Hotel-Reservation-System&theme=radical)](https://github.com/meahmedraza/Hotel-Reservation-System)
-  
-</div>
+[![Hotel System](https://github-readme-stats.vercel.app/api/pin/?username=meahmedraza&repo=Hotel-Reservation-System&theme=radical&show_owner=true)](https://github.com/meahmedraza/Hotel-Reservation-System)
 
 Feature-rich mobile app with clean architecture, SOLID principles, and Provider state management.
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x300/0a192f/22D3EE?text=Hotel+Reservation+App+Demo" alt="Hotel App Demo" width="80%"/>
+</p>
 
 ---
 
@@ -131,13 +139,19 @@ Feature-rich mobile app with clean architecture, SOLID principles, and Provider 
   <a href="https://www.leetcode.com/meahmedraza" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+  <a href="https://www.kaggle.com/meahmedraza" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:ahmedraza8616@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/meahmedraza/meahmedraza/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/meahmedraza/meahmedraza/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -149,10 +163,24 @@ Feature-rich mobile app with clean architecture, SOLID principles, and Provider 
 
 ---
 
-## 💡 Quote of the Day
+## 💡 Coding Activity
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1,200%20hrs-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+<!--END_SECTION:waka-->
+
+---
+
+## 📜 Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 <div align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Thanks for visiting](https://img.shields.io/badge/Thanks%20for%20visiting-!-FF6F00?style=for-the-badge)
+  ![Last Updated](https://img.shields.io/badge/Last%20Update-2024--06--10-22D3EE?style=for-the-badge)
   
 </div>
