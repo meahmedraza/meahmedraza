@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  ![Ahmed's GitHub Banner](https://raw.githubusercontent.com/meahmedraza/meahmedraza/main/assets/github-header-image.png)
+  ![Ahmed's GitHub Banner](https://github.com/meahmedraza/meahmedraza/blob/main/assets/github-header-image.png)
   
 </div>
 
