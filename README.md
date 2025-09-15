@@ -102,7 +102,9 @@ I'm a passionate Computer Science graduate with expertise in Artificial Intellig
 ### 🤖 FBR Insight Chatbot (LLM + RAG)
 [![FBR Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=meahmedraza&repo=FBR-Insights-Chatbot&theme=radical&show_owner=true)](https://github.com/meahmedraza/FBR-Insights-Chatbot)
 
-Fine-tuned LLaMA-based chatbot with RAG pipeline for FBR dataset queries.
+An AI-powered chatbot fine-tuned on **FBR (Federal Board of Revenue) datasets**, integrating **LLaMA models with Retrieval-Augmented Generation (RAG)**.  
+It enables users to query tax regulations, policies, and data insights in natural language.  
+The project also demonstrates **custom fine-tuning with LoRA adapters, data preprocessing, and real-time response generation**.  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/meahmedraza/FBR-Insights-Chatbot/main/fbrinsight/Images/output%20test.png" alt="FBR Chatbot Demo" width="80%"/>
@@ -181,6 +183,6 @@ Feature-rich mobile app with clean architecture, SOLID principles, and Provider 
 <div align="center">
   
   ![Thanks for visiting](https://img.shields.io/badge/Thanks%20for%20visiting-!-FF6F00?style=for-the-badge)
-  ![Last Updated](https://img.shields.io/badge/Last%20Update-2024--06--10-22D3EE?style=for-the-badge)
+  ![Last Updated](https://img.shields.io/github/last-commit/meahmedraza/meahmedraza?label=Last%20Updated&style=for-the-badge&color=22D3EE)
   
 </div>
