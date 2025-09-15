@@ -67,7 +67,9 @@
 ### 🚀 Highlight Projects
 - 🤖 [**FBR Insight Chatbot (LLM + RAG)**](https://github.com/meahmedraza/FBR-Insights-Chatbot)  
   *Fine-tuned LLaMA-based chatbot with RAG pipeline for FBR dataset queries.*  
-  ![Demo](https://raw.githubusercontent.com/meahmedraza/FBR-Insights-Chatbot/main/fbrinsight/Images/output%20test.png)
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/meahmedraza/FBR-Insights-Chatbot/main/fbrinsight/Images/output%20test.png" alt="FBR Chatbot Demo" width="600"/>
+  </p>
 
 
 - 📱 **Hotel Reservation System (Flutter, MVVMN)**  
