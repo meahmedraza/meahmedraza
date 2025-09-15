@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  ![Ahmed's GitHub Banner](https://github.com/meahmedraza/meahmedraza/blob/main/assets/github-header-image.png)
+  ![Ahmed's GitHub Banner](https://raw.githubusercontent.com/meahmedraza/meahmedraza/main/assets/github-header-image.png)
   
 </div>
 
@@ -25,7 +25,13 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+  
+  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  
+</div>
+
+<br>
 
 I'm a passionate Computer Science graduate with expertise in Artificial Intelligence, Machine Learning, and Data Science. I love building intelligent systems that can solve real-world problems.
 
@@ -51,11 +57,15 @@ I'm a passionate Computer Science graduate with expertise in Artificial Intellig
 
 <div align="center">
   
-  ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=meahmedraza&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=meahmedraza&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Ahmed's GitHub stats" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meahmedraza&theme=radical)
+  <br><br>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meahmedraza&layout=compact&theme=radical&langs_count=8)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meahmedraza&theme=radical" alt="Ahmed's GitHub streak" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meahmedraza&layout=compact&theme=radical&langs_count=8" alt="Ahmed's Top Languages" />
   
 </div>
 
@@ -63,25 +73,41 @@ I'm a passionate Computer Science graduate with expertise in Artificial Intellig
 
 ## 📈 Contribution Graph
 
-![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meahmedraza&theme=tokyo-night)
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meahmedraza&theme=tokyo-night" alt="Ahmed's GitHub Activity Graph" />
+  
+</div>
 
 ---
 
 ## 🏆 Featured Projects
 
 ### 🤖 FBR Insight Chatbot (LLM + RAG)
-[![FBR Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=meahmedraza&repo=FBR-Insights-Chatbot&theme=radical)](https://github.com/meahmedraza/FBR-Insights-Chatbot)
+
+<div align="center">
+  
+  [![FBR Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=meahmedraza&repo=FBR-Insights-Chatbot&theme=radical)](https://github.com/meahmedraza/FBR-Insights-Chatbot)
+  
+</div>
 
 Fine-tuned LLaMA-based chatbot with RAG pipeline for FBR dataset queries.
 
-<p align="center">
+<div align="center">
+  
   <img src="https://raw.githubusercontent.com/meahmedraza/FBR-Insights-Chatbot/main/fbrinsight/Images/output%20test.png" alt="FBR Chatbot Demo" width="600"/>
-</p>
+  
+</div>
 
 ---
 
 ### 📱 Hotel Reservation System (Flutter, MVVMN)
-[![Hotel System](https://github-readme-stats.vercel.app/api/pin/?username=meahmedraza&repo=Hotel-Reservation-System&theme=radical)](https://github.com/meahmedraza/Hotel-Reservation-System)
+
+<div align="center">
+  
+  [![Hotel System](https://github-readme-stats.vercel.app/api/pin/?username=meahmedraza&repo=Hotel-Reservation-System&theme=radical)](https://github.com/meahmedraza/Hotel-Reservation-System)
+  
+</div>
 
 Feature-rich mobile app with clean architecture, SOLID principles, and Provider state management.
 
@@ -111,13 +137,13 @@ Feature-rich mobile app with clean architecture, SOLID principles, and Provider 
 
 <div align="center">
   
-  ![Snake animation](https://github.com/meahmedraza/meahmedraza/blob/main/assets/github-user-contribution.svg)
+  ![Snake animation](https://raw.githubusercontent.com/meahmedraza/meahmedraza/output/github-contribution-grid-snake.svg)
   
 </div>
 
 <div align="center">
   
-  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=meahmedraza&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=meahmedraza&theme=onedark&row=2&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -125,4 +151,8 @@ Feature-rich mobile app with clean architecture, SOLID principles, and Provider 
 
 ## 💡 Quote of the Day
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
