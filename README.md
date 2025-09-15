@@ -134,9 +134,6 @@ Feature-rich mobile app with clean architecture, SOLID principles, and Provider 
   <a href="https://linkedin.com/in/meahmedraza" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://web.facebook.com/profile.php?id=100050948610246" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
   <a href="https://instagram.com/me.ahmed_raza" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
