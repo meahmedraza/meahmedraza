@@ -184,6 +184,6 @@ Feature-rich mobile app with clean architecture, SOLID principles, and Provider 
 <div align="center">
   
   ![Thanks for visiting](https://img.shields.io/badge/Thanks%20for%20visiting-!-FF6F00?style=for-the-badge)
-  ![Last Updated](https://img.shields.io/github/last-commit/meahmedraza/meahmedraza?label=Last%20Updated&style=for-the-badge&color=22D3EE)
+![Last Updated](https://img.shields.io/github/last-commit/meahmedraza/meahmedraza?label=Last%20Updated&style=for-the-badge&color=22D3EE&cacheBust=1)
   
 </div>
