@@ -154,12 +154,6 @@ Feature-rich mobile app with clean architecture, SOLID principles, and Provider 
 
 <div align="center">
   
-  ![Snake animation](https://github.com/meahmedraza/meahmedraza/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
-  
   [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=meahmedraza&theme=onedark&row=2&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
