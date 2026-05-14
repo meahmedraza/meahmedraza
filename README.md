@@ -28,7 +28,7 @@
 
 I am a Deep Learning Engineer specializing in Computer Vision, Medical Image Analysis, and Generative AI. I design and deploy end-to-end AI pipelines—from raw clinical data registration to automated inference using state-of-the-art models.
 
-- 💼 **Deep Learning Engineer** @ Avantduo | Ex-**AI Intern** @ RISETech (PSEB Tech Destination)
+- 💼 **Deep Learning Engineer** | Ex-**AI Intern** @ RISETech (PSEB Tech Destination)
 - 🔬 Specializing in **Computer Vision, Medical Imaging (SAM 2, SegFormer), & Custom Enhancement Algorithms**
 - 🧠 Expert in **Generative AI & Virtual Staining (DCLGAN, Pix2Pix, LLMs, RAG)**
 - 🛠️ Architecting **End-to-End Automated Pipelines**, handling complex data lifecycles & hyper-parameter optimization
