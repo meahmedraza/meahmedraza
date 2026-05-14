@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ahmed+Raza;AI%2FML+Engineer;Generative+AI+Enthusiast;Data+Analyst;Flutter+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ahmed+Raza;Deep+Learning+Engineer;Computer+Vision+Expert;Generative+AI+Specialist;AI%2FML+Pipeline+Architect" alt="Typing SVG" />
   </a>
 </h1>
 
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Generative AI & Agentic AI Enthusiast | Data Analyst from Pakistan</h3>
+<h3 align="center">🚀 Deep Learning Engineer | Computer Vision & Generative AI Specialist | Pakistan</h3>
 
 <div align="center">
   
@@ -26,14 +26,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-I'm a passionate Computer Science graduate with expertise in Artificial Intelligence, Machine Learning, and Data Science. I love building intelligent systems that can solve real-world problems.
+I am a Deep Learning Engineer specializing in Computer Vision, Medical Image Analysis, and Generative AI. I design and deploy end-to-end AI pipelines—from raw clinical data registration to automated inference using state-of-the-art models.
 
+- 💼 **Deep Learning Engineer** @ Avantduo | Ex-**AI Intern** @ RISETech (PSEB Tech Destination)
+- 🔬 Specializing in **Computer Vision, Medical Imaging (SAM 2, SegFormer), & Custom Enhancement Algorithms**
+- 🧠 Expert in **Generative AI & Virtual Staining (DCLGAN, Pix2Pix, LLMs, RAG)**
+- 🛠️ Architecting **End-to-End Automated Pipelines**, handling complex data lifecycles & hyper-parameter optimization
+- 📊 Skilled in **Data Registration & Annotation (QuPath, Fiji)** for highly imbalanced datasets
 - 🎓 **BS in Computer Science** @ PAF-IAST  
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**  
-- 🧠 Exploring **Generative AI, Agentic AI, and Large Language Models (LLMs)**  
-- 📊 Skilled in **Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch)**  
-- 📈 Experienced in **Data Analysis, RAG systems, and AI-powered applications**  
-- 📱 Building mobile apps with **Flutter (MVVMN architecture, SOLID principles)**  
 - 📫 Reach me at: **ahmedraza8616@gmail.com**
 
 <div align="center">
@@ -46,30 +46,33 @@ I'm a passionate Computer Science graduate with expertise in Artificial Intellig
 
 ## 🔥 Tech Stack & Proficiency
 
-### 🧠 AI/ML & Data Science
+### 🧠 Deep Learning & Computer Vision
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?logo=pytorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?logo=pytorch&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?logo=pandas&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?logo=opencv&logoColor=white)
+  ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?logo=huggingface&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
   ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Advanced-F7931E?logo=scikit-learn&logoColor=white)
   
 </div>
 
-### 📱 Mobile Development
+### 🛠️ Medical AI & Generative Models
 <div align="center">
   
-  ![Flutter](https://img.shields.io/badge/Flutter-Advanced-02569B?logo=flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-Intermediate-0175C2?logo=dart&logoColor=white)
+  ![SAM2](https://img.shields.io/badge/Meta_SAM_2-Segmentation-0467DF?style=flat)
+  ![SegFormer](https://img.shields.io/badge/SegFormer-Computer_Vision-4B0082?style=flat)
+  ![GANs](https://img.shields.io/badge/DCLGAN_|_Pix2Pix-Generative_AI-FF007F?style=flat)
+  ![QuPath](https://img.shields.io/badge/QuPath_|_Fiji-Image_Registration-2E8B57?style=flat)
   
 </div>
 
-### 🗄️ Databases & Tools
+### 🗄️ Software Engineering & Tools
 <div align="center">
   
+  ![Flutter](https://img.shields.io/badge/Flutter-Advanced-02569B?logo=flutter&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?logo=mongodb&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?logo=linux&logoColor=black)
   
@@ -162,11 +165,8 @@ Feature-rich mobile app with clean architecture, SOLID principles, and Provider 
 
 ## 💡 Coding Activity
 
-<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1,200%20hrs-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
-<!--END_SECTION:waka-->
-
 ---
 
 ## 📜 Quote of the Day
