@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+,+I'm+Ahmed+Raza;Deep+Learning+Engineer;Computer+Vision+Specialist;GenAI+%26+Data+Analyst;Flutter+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi,+I'm+Ahmed+Raza;Deep+Learning+Engineer;Computer+Vision+Specialist;GenAI+%26+Data+Analyst;Flutter+Developer" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -184,7 +184,7 @@ Feature-rich mobile app engineered with clean MVVM architecture, STRICT adherenc
 
 ## Coding Activity
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1,200%20hrs-blue)
+![Code Time](https://img.shields.io/badge/Code%20Time-1,200%20hrs-blue)
 ![Lines of code](https://img.shields.io/badge/Lines%20Written-1.5%20million%20lines-blue)
 ---
 
